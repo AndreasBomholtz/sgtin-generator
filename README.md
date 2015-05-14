@@ -1,2 +1,2 @@
 # sgtin-generator
-Small script to generate SGTIN-96
+Small Perl script to generate SGTIN-96
